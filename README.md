@@ -1,5 +1,4 @@
-![Uploading image.png…]()
-
+<img width="1913" height="1022" alt="image" src="https://github.com/user-attachments/assets/1cee7990-980d-49c6-ba2d-9259d90423b2" />
 # 🐉 LoreKeeper: Campaign Memory
 
 LoreKeeper is a lightweight Retrieval-Augmented Generation (RAG) AI assistant built specifically for Dungeon Masters. DMs often have scattered notes about NPCs, locations, and past sessions. LoreKeeper allows you to index all your Markdown or Text notes and chat with them mid-game, instantly recalling specific details without breaking the flow of your session.
